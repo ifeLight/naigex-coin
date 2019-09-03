@@ -1,7 +1,8 @@
-# CENTRE Fiat Token
-The CENTRE Fiat Token contract is an ERC-20 compatible token. 
+# Naigex Fiat Token
+The Naigex Fiat Token contract is an ERC-20 compatible token. 
 It allows minting/burning of tokens by multiple entities, pausing all activity, freezing of individual addresses, 
 and a way to upgrade the contract so that bugs can be fixed or features added.
+This was initially cloned from Centre tokens.
 
 ## Roles
 The `FiatToken` has a number of roles (addresses) which control different functionality:
